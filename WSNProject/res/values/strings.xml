@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, WSNProjectActivity!</string>
+    <string name="app_name">WSNProject</string>
+    <string name="ftaWelcome">Welcome to WSN file transfer Actvitity!</string>
+    <string name="ftaFileSeclect">Select File</string>
+    <string name="titleFileSelect">Select File</string>
+    <string name="titleServiceStart">Start Service</string>
+    <string name="titleServiceStop">Stop Service</string>
+    <string name="local_service_started">Service is running now</string>
+    <string name="local_service_stopped">Service Stopped</string>
+    <string name="title">this is the message that appears</string>
+
+</resources>
